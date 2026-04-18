@@ -1,1 +1,23 @@
+- id: aliyev
+  name: Dr. Aliyev
+  position: Professor
+  field: Solar Physics
+  email: aliyev@institute.uz
+  image: /images/aliyev.jpg
+  bio: Expert in solar radio bursts and CME analysis.
+  publications:
+    - title: CME Analysis 2024
+      link: /files/aliyev_paper1.pdf
+    - title: Radio Burst Study
+      link: /files/aliyev_paper2.pdf
 
+- id: karimov
+  name: Dr. Karimov
+  position: Associate Professor
+  field: Astrophysics
+  email: karimov@institute.uz
+  image: /images/karimov.jpg
+  bio: Works on exoplanets and spectroscopy.
+  publications:
+    - title: Exoplanet Study
+      link: /files/karimov_paper.pdf
