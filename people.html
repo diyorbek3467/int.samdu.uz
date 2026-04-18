@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Professors"
+permalink: /people/
+---
+
+<ul>
+{% for prof in site.data.professors %}
+  <li>
+    <a href="/people/{{ prof.id }}/">
+      {{ prof.name }} – {{ prof.field }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
